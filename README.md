@@ -12,7 +12,7 @@ This project:   finds Solar power, Wind turbine, Hydroelectricity
 
 ## Tech Stack
 
-- Embedding Model : BAAI/bge-m3 — ranked 1 on MTEB benchmark 2025
+- Embedding Model : BAAI/bge-m3 — ranked 1 on MTEB (Massive Text Embedding Benchmark)  2025
 - Vector Database : ChromaDB — local, persistent, zero setup
 - Dataset         : HuggingFace Wikipedia — 500 articles indexed
 - UI              : Streamlit web application
